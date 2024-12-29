@@ -1,1 +1,2 @@
 Ini adalah file sample.txt
+ini tambahan perubahannya
