@@ -1,2 +1,4 @@
 Ini adalah file sample.txt
+
 ini perubahan di branch master
+ini tambahan perubahannya
